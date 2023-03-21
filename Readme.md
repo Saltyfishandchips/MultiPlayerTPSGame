@@ -9,29 +9,25 @@
 
 
 ## 登录界面
-
-![登录界面](C:\Users\Admin\Desktop\TPSGames\登录界面.png)
+![登录界面](https://user-images.githubusercontent.com/75468763/226604898-7908b474-0a41-4ce9-b0a7-864cc3bcb2d4.png)
 
 
 
 ## 热身大厅
 
-![LobbyMap](C:\Users\Admin\Desktop\TPSGames\LobbyMap.png)
+![LobbyMap](https://user-images.githubusercontent.com/75468763/226604937-574e285f-8995-482b-91b5-e52ecd0ae687.png)
 
 
 
 ## 热身时间
-
-![热身时间](C:\Users\Admin\Desktop\TPSGames\热身时间.png)
-
+![热身时间](https://user-images.githubusercontent.com/75468763/226604968-89188f02-3bd7-49a8-9b38-b344a82aa2dc.png)
 
 
 ## 团队竞技
 
-![Team](C:\Users\Admin\Desktop\TPSGames\Team.png)
-
+![Team](https://user-images.githubusercontent.com/75468763/226605021-9805e643-2dcd-4c3b-805b-b8219d017f0b.png)
 
 
 ## 个人竞技
+![FreeForAll](https://user-images.githubusercontent.com/75468763/226605055-0cb84762-2278-48ff-b398-017a31585a52.png)
 
-![FreeForAll](C:\Users\Admin\Desktop\TPSGames\FreeForAll.png)
