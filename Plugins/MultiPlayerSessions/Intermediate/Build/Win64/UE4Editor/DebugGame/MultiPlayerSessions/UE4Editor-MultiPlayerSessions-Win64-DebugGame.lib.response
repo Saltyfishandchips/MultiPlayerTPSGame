@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MultiPlayerSessions-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\UE4_Demo\Blaster\Intermediate\Build\Win64\BlasterEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.NoUndef.h.obj"
+"G:\UE4_Demo\Blaster\Plugins\MultiPlayerSessions\Intermediate\Build\Win64\UE4Editor\DebugGame\MultiPlayerSessions\Module.MultiPlayerSessions.cpp.obj"
+"G:\UE4_Demo\Blaster\Plugins\MultiPlayerSessions\Intermediate\Build\Win64\UE4Editor\DebugGame\MultiPlayerSessions\Module.MultiPlayerSessions.gen.cpp.obj"
+"G:\UE4_Demo\Blaster\Plugins\MultiPlayerSessions\Intermediate\Build\Win64\UE4Editor\DebugGame\MultiPlayerSessions\Default.rc2.res"
+/OUT:"G:\UE4_Demo\Blaster\Plugins\MultiPlayerSessions\Intermediate\Build\Win64\UE4Editor\DebugGame\MultiPlayerSessions\UE4Editor-MultiPlayerSessions-Win64-DebugGame.lib"
