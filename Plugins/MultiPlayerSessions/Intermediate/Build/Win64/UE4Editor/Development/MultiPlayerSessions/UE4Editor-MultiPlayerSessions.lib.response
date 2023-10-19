@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MultiPlayerSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\TPSGame\MultiPlayerTPSGame\Intermediate\Build\Win64\BlasterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.h.obj"
+"H:\TPSGame\MultiPlayerTPSGame\Plugins\MultiPlayerSessions\Intermediate\Build\Win64\UE4Editor\Development\MultiPlayerSessions\Module.MultiPlayerSessions.cpp.obj"
+"H:\TPSGame\MultiPlayerTPSGame\Plugins\MultiPlayerSessions\Intermediate\Build\Win64\UE4Editor\Development\MultiPlayerSessions\Module.MultiPlayerSessions.gen.cpp.obj"
+"H:\TPSGame\MultiPlayerTPSGame\Plugins\MultiPlayerSessions\Intermediate\Build\Win64\UE4Editor\Development\MultiPlayerSessions\Default.rc2.res"
+/OUT:"H:\TPSGame\MultiPlayerTPSGame\Plugins\MultiPlayerSessions\Intermediate\Build\Win64\UE4Editor\Development\MultiPlayerSessions\UE4Editor-MultiPlayerSessions.lib"
